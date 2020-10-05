@@ -1,1 +1,1 @@
-hoge practice
+hoge
